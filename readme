@@ -3,6 +3,15 @@ This repo contains notes and source code when I had completed a how to tutorial 
 Link to tutorial:
 https://linuxacademy.com/howtoguides/posts/show/topic/12369-how-to-introduction-to-terraform-modules
 
+If you get the error - "Terraform provider.aws: no suitable version installed":
+http://pinter.org/archives/5831
+
+Link to "An Introduction to the AWS Command Line Tool":
+https://www.linuxfoundation.org/blog/an-introduction-to-the-aws-command-line-tool/
+
+Link to "Deploying a Development Environment in Amazon EC2 Using the AWS Command Line Interface":
+https://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html#configure-cli-launch-ec2
+
 Update #1:
 Looks like I need to know details about our default VPC in AWS - like the subnet ID and AWS region ID.
 
